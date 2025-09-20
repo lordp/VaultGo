@@ -17,6 +17,8 @@ Commands:
   help    Print this message or the help of the given subcommand(s)
 ```
 
+WARNING - You will need some familiarity with the Linux command line as this does not have a graphical interface.
+
 ## Save file location
 The save files for me are located in the following directory - this may not be where they are for you though.
 
