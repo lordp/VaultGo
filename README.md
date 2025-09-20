@@ -30,13 +30,13 @@ The `-autosave.sav` file is what the game saves to when changing from one day to
 
 ## Why?
 
-I wrote this because I couldn't get the `vaultc` app to work and thought using this as a way to extend my Go
-knowledge would be fun - and it was.
+I wrote this because I couldn't get the [vaultc](https://github.com/NPC-Studio/vaultc) app to work and thought using this as a way to extend my Go
+knowledge would be fun (it was).
 
 ## Source code
 
 I'm going to keep the source code to myself, for two reasons
- - the source code for the official `vaultc` app is not available
+ - the source code for the official vaultc app is not available
  - what I've written is probably horrific, and I don't want to cause harm to those that may read it
 
 If anyone from NPC Studios wants to have a look, I will send you a copy.
