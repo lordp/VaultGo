@@ -28,6 +28,8 @@ If this is not where they are for you, typing the following may help you find th
 
 The `-autosave.sav` file is what the game saves to when changing from one day to the next.
 
+Copy the save file you want to edit to the same directory as `vaultgo`. Once you have unpacked the file, changed what you wanted and packed it again, copy the save file back to the save file location above and run the game.
+
 ## Why?
 
 I wrote this because I couldn't get the [vaultc](https://github.com/NPC-Studio/vaultc) app to work and thought using this as a way to extend my Go
